@@ -160,7 +160,7 @@
     <string:String x:Key="RequestsCacheCloseToDeleteTitle">Cerrar ReplayBook</string:String>
     <string:String x:Key="RequestsCacheCloseToDelete">El caché se limpiará tras cerrar ReplayBook.</string:String>
     <string:String x:Key="RequestsAdvancedLabel">Opciones avanzadas</string:String>
-    <string:String x:Key="DataDragonBaseUrlLabelText">URL de Data Dragon Base</string:String>
+    <string:String x:Key="DataDragonBaseUrlLabelText">URL base de Data Dragon</string:String>
     <string:String x:Key="DataDragonChampionUrlLabelText">URL de las imágenes de campeones</string:String>
     <string:String x:Key="DataDragonItemUrlLabelText">URL de las imágenes de objetos</string:String>
     <string:String x:Key="DataDragonMapUrlLabelText">URL de la imagen del mapa</string:String>
